@@ -187,11 +187,6 @@
 #value{
     background-color: #444444;
 }
-@keyframes autoscroll{
-    from{
-        
-    }
-    to{
-
-    }
+@media(max-width: 1280px){
+    
 }
